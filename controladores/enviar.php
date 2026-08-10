@@ -3,8 +3,8 @@ $nombre = $_POST['nombre'];
 $email = $_POST['email'];
 $mensaje = $_POST['mensaje'];
 
-$destino = "tucorreo@dominio.com";
-$asunto = "Nuevo mensaje desde el formulario";
+$destino = "mksoftwarelatam@gmail.com";
+$asunto = "Consulta Pagina Web MK Software";
 
 $contenido = "Nombre: $nombre\nCorreo: $email\nMensaje:\n$mensaje";
 
